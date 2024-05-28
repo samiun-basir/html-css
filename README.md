@@ -1,2 +1,2 @@
 # html-css
-My first demo git project
+My first demo git repository
